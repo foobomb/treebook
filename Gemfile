@@ -12,6 +12,9 @@ gem 'sass-rails', '~> 4.0.0'
 # Use devise authentication
 gem 'devise'
 
+# User Simple Form
+gem 'simple_form'
+
 # Use SCSS Boostrap 3
 gem 'anjlab-bootstrap-rails', '>= 3.0.0.0', :require => 'bootstrap-rails'
 
