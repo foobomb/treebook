@@ -3,10 +3,14 @@ source 'https://rubygems.org'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.0'
 
+gem 'state_machine'
+gem 'draper'
+gem 'js-routes'
 
 group :test do
 
   gem 'shoulda'
+  gem 'factory_girl_rails'
 
 end
 
